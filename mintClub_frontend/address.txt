@@ -1,0 +1,23 @@
+stephen@DESKTOP-EC45B2O:/mnt/c/Users/User/desktop/dapps/mintclub$ npx hardhat run scripts/deploy.js --network matic
+Deploying contracts with the account: 0x356d358f406cC0c197cbb64c3C8Bd281513d931d
+Contract deployed to: 0x1fe574ccf2f2dF25cB7fbd2AF606EAb8B62b0b81
+stephen@DESKTOP-EC45B2O:/mnt/c/Users/User/desktop/dapps/mintclub$ 
+stephen@DESKTOP-EC45B2O:/mnt/c/Users/User/desktop/dapps/mintclub$ 
+stephen@DESKTOP-EC45B2O:/mnt/c/Users/User/desktop/dapps/mintclub$ npx hardhat run scripts/deploy.js --network rinkeby
+Deploying contracts with the account: 0x356d358f406cC0c197cbb64c3C8Bd281513d931d
+Contract deployed to: 0x346aC5B4cD2e8A3Bf05b26A769EbD6704051df5A
+
+
+2nd deployment
+
+Mint Club Contract rinkely:
+Deploying contracts with the account: 0x356d358f406cC0c197cbb64c3C8Bd281513d931d
+Contract deployed to: 0x206AC1F2331b2498AE917CA65996A11AD35F1Dbc
+
+
+## Deploying contracts with the account: 0x356d358f406cC0c197cbb64c3C8Bd281513d931d
+## Contract deployed to: 0xE76205564b874C59B4846543bbb28DF9ACA8AE63
+
+orientation contract
+Deploying contracts with the account: 0x356d358f406cC0c197cbb64c3C8Bd281513d931d
+Contract deployed to: 0x7Bb906Bbb19EfDaCdC55Fa1659892d3259C7E10b
